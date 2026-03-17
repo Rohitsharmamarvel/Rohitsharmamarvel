@@ -1,7 +1,6 @@
 # Hi 👋, I'm Rohit Sharma
 
 ### 🚀 Full Stack Developer | Java & Python Expert | Cloud & AI Enthusiast
-**4+ years of experience** designing and delivering scalable, cloud-native, high-performance web applications and intelligent backend systems.
 
 ---
 
