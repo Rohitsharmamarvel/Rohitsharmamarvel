@@ -31,15 +31,36 @@ I don't just write code; I build **Command Centers**. Currently obsessed with au
 | **AI/ML** | Gemini API, Claude 3.5, Flux.1, LangChain |
 
 ---
+### 📊 GitHub Activity
 
-### 📊 Tactical Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Rohitsharmamarvel&show_icons=true&theme=nord" alt="GitHub Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitsharmamarvel&layout=compact&theme=nord" alt="Top Languages" height="180px" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rohitsharmamarvel&show_icons=true&theme=dark" alt="GitHub Stats" height="180px" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitsharmamarvel&layout=compact&theme=dark" alt="Top Languages" height="180px" />
+
 </p>
+
+
 
 ---
 
-### 📬 Deploy a Conversation
+
+
+### 📬 Let's Connect!
+
+
+
 * 🔗 [LinkedIn](https://www.linkedin.com/in/rohitsharma360/)
+
 * 📧 [rsharma.munchkin@gmail.com](mailto:rsharma.munchkin@gmail.com)
+
+
+
+---
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitsharmamarvel&theme=dark" alt="GitHub Streak" />
+
+</p>
